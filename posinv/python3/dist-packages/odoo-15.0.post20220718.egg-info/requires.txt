@@ -1,0 +1,6 @@
+
+[SSL]
+pyopenssl
+
+[ldap]
+python-ldap
